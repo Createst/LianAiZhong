@@ -87,7 +87,7 @@ function drawWatch()
 	cxt.fillText(Hour+":"+Minute+":"+Second,-60,90);
 	cxt.font="25px 宋体";	
 	cxt.fillStyle="#FFFF00";
-	cxt.fillText("相恋 "+love_year+"年"+love_month+"月"+love_day+"天"+Hour+"小时"+Minute+"分"+Second+"秒",-220,-220);	
+	cxt.fillText("军and敏相恋 "+love_year+"年"+love_month+"月"+love_day+"天"+Hour+"小时"+Minute+"分"+Second+"秒",-220,-220);	
 	cxt.restore();
 	//画时刻
 	for(var i=0;i<12;++i)
